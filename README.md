@@ -6,10 +6,9 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone <YOUR_GITHUB_REPO_URL>
-    cd <YOUR_PROJECT_DIRECTORY>
+    git clone https://github.com/MjKey/02.07.2025-tz
+    cd 02.07.2025-tz
     ```
-    (Замените `<YOUR_GITHUB_REPO_URL>` и `<YOUR_PROJECT_DIRECTORY>` на актуальные значения после создания репозитория.)
 
 2.  Создайте виртуальное окружение и активируйте его:
     ```bash
